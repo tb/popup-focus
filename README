@@ -1,0 +1,6 @@
+Popup focus
+==========
+
+Adds .focus() to Rails build in link_to :popup
+
+Copyright (c) 2011 Tomasz Bąk, released under the MIT license
